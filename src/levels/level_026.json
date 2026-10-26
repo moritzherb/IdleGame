@@ -1,0 +1,10 @@
+{
+  "id": 26,
+  "owner": {
+    "name": "Wendy",
+    "role": "Wedding planner",
+    "color": "#F5A3C7"
+  },
+  "wallpaper": "flowers",
+  "boss": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": 16,
+  "owner": {
+    "name": "Mia",
+    "role": "Dog walker",
+    "color": "#E8A33D"
+  },
+  "wallpaper": "paws",
+  "boss": false
+}

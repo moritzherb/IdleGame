@@ -1,0 +1,10 @@
+{
+  "id": 15,
+  "owner": {
+    "name": "Bruno",
+    "role": "Plumber",
+    "color": "#E0453A"
+  },
+  "wallpaper": "bricks",
+  "boss": false
+}

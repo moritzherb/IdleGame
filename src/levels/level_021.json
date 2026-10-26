@@ -1,0 +1,10 @@
+{
+  "id": 21,
+  "owner": {
+    "name": "Hugo",
+    "role": "Magician",
+    "color": "#6A3FA0"
+  },
+  "wallpaper": "stars",
+  "boss": false
+}

@@ -1,0 +1,10 @@
+{
+  "id": 8,
+  "owner": {
+    "name": "Captain Finn",
+    "role": "Pilot",
+    "color": "#4D7CFF"
+  },
+  "wallpaper": "clouds",
+  "boss": false
+}

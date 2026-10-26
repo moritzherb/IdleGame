@@ -1,0 +1,10 @@
+{
+  "id": 22,
+  "owner": {
+    "name": "Priya",
+    "role": "Scientist",
+    "color": "#38B6FF"
+  },
+  "wallpaper": "plus",
+  "boss": false
+}

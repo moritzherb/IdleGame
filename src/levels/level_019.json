@@ -1,0 +1,10 @@
+{
+  "id": 19,
+  "owner": {
+    "name": "Sam",
+    "role": "Delivery rider",
+    "color": "#2FB0A0"
+  },
+  "wallpaper": "stripes",
+  "boss": false
+}

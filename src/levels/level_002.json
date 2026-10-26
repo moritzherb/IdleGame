@@ -1,0 +1,10 @@
+{
+  "id": 2,
+  "owner": {
+    "name": "Tim",
+    "role": "Student",
+    "color": "#4DA3FF"
+  },
+  "wallpaper": "notebook",
+  "boss": false
+}

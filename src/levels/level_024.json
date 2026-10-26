@@ -1,0 +1,10 @@
+{
+  "id": 24,
+  "owner": {
+    "name": "Olga",
+    "role": "Librarian",
+    "color": "#9C6B4E"
+  },
+  "wallpaper": "plaid",
+  "boss": false
+}

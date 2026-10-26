@@ -1,0 +1,10 @@
+{
+  "id": 23,
+  "owner": {
+    "name": "Max",
+    "role": "Skater",
+    "color": "#F2B62F"
+  },
+  "wallpaper": "checkers",
+  "boss": false
+}

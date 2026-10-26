@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "owner": {
+    "name": "Kayla",
+    "role": "Influencer",
+    "color": "#C86BFA"
+  },
+  "wallpaper": "sparkle",
+  "boss": false
+}

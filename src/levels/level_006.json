@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "owner": {
+    "name": "Ravi",
+    "role": "Gamer",
+    "color": "#5B3F8C"
+  },
+  "wallpaper": "pixels",
+  "boss": false
+}

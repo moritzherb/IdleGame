@@ -1,0 +1,10 @@
+{
+  "id": 14,
+  "owner": {
+    "name": "Luna",
+    "role": "Astronaut",
+    "color": "#3A3F7A"
+  },
+  "wallpaper": "stars",
+  "boss": false
+}

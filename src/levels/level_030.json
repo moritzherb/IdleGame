@@ -1,0 +1,11 @@
+{
+  "id": 30,
+  "owner": {
+    "name": "Mayor Gold",
+    "role": "The mayor",
+    "color": "#C9A227"
+  },
+  "wallpaper": "office",
+  "boss": true,
+  "intro": "Live TV interview in 90 seconds!"
+}

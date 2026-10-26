@@ -1,0 +1,10 @@
+{
+  "id": 9,
+  "owner": {
+    "name": "Nora",
+    "role": "Detective",
+    "color": "#8C6A4F"
+  },
+  "wallpaper": "plaid",
+  "boss": false
+}

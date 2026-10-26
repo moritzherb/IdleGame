@@ -1,0 +1,10 @@
+{
+  "id": 17,
+  "owner": {
+    "name": "Otto",
+    "role": "Farmer",
+    "color": "#6FAA45"
+  },
+  "wallpaper": "fields",
+  "boss": false
+}

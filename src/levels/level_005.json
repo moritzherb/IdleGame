@@ -1,0 +1,10 @@
+{
+  "id": 5,
+  "owner": {
+    "name": "Coach Bea",
+    "role": "Fitness coach",
+    "color": "#2FCB95"
+  },
+  "wallpaper": "stripes",
+  "boss": false
+}

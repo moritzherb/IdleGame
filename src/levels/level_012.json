@@ -1,0 +1,10 @@
+{
+  "id": 12,
+  "owner": {
+    "name": "Ms. Patel",
+    "role": "Teacher",
+    "color": "#7FB33A"
+  },
+  "wallpaper": "notebook",
+  "boss": false
+}

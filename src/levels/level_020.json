@@ -1,0 +1,11 @@
+{
+  "id": 20,
+  "owner": {
+    "name": "Bella Star",
+    "role": "Pop star",
+    "color": "#FF3D8B"
+  },
+  "wallpaper": "sparkle",
+  "boss": true,
+  "intro": "On stage in 60 seconds!"
+}

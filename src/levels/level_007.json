@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "owner": {
+    "name": "Dr. Ines",
+    "role": "Doctor",
+    "color": "#3DC7D9"
+  },
+  "wallpaper": "plus",
+  "boss": false
+}

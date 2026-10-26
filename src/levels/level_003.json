@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "owner": {
+    "name": "Chef Marco",
+    "role": "Pizza chef",
+    "color": "#FF8A3D"
+  },
+  "wallpaper": "checkers",
+  "boss": false
+}

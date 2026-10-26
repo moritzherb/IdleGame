@@ -1,0 +1,10 @@
+{
+  "id": 25,
+  "owner": {
+    "name": "Rex",
+    "role": "Drummer",
+    "color": "#3C3C3C"
+  },
+  "wallpaper": "pixels",
+  "boss": false
+}

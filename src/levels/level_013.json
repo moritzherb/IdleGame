@@ -1,0 +1,10 @@
+{
+  "id": 13,
+  "owner": {
+    "name": "Grandpa Joe",
+    "role": "Fisherman",
+    "color": "#5A9BB8"
+  },
+  "wallpaper": "waves",
+  "boss": false
+}

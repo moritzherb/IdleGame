@@ -1,0 +1,10 @@
+{
+  "id": 18,
+  "owner": {
+    "name": "Ava",
+    "role": "Painter",
+    "color": "#FF6B57"
+  },
+  "wallpaper": "splatter",
+  "boss": false
+}

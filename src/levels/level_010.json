@@ -1,0 +1,11 @@
+{
+  "id": 10,
+  "owner": {
+    "name": "Mr. Sterling",
+    "role": "Your boss",
+    "color": "#2D2342"
+  },
+  "wallpaper": "office",
+  "boss": true,
+  "intro": "Meeting in 60 seconds!"
+}
